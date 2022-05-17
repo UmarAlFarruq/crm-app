@@ -1,0 +1,17 @@
+.buttonTableRight{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    width: 80px;
+}
+.buttonTableRight button{
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+}
+.iconTableRight{
+    font-size: 16px;
+    font-weight: 900;
+}

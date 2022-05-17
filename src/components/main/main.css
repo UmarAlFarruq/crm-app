@@ -1,0 +1,15 @@
+.ButtonMainOne{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+.ButtonMainOne button{
+    width: 99%;
+    margin: auto;
+}
+.SelectMainForFilter{
+    width: 100%;
+
+}
